@@ -15,9 +15,9 @@
    # 安装依赖
    pip3 install -r requirements.txt
    # 查看过去一年
-   python3 <项目父目录>
+   python3 ./src/main.py <项目父目录>
    # 查看指定日期
-   python3 <项目父目录> 2023-01-01 2023-12-31
+   python3 ./src/main.py <项目父目录> 2023-01-01 2023-12-31
    ```
 
 2. 从 [Release](https://github.com/BianTan/git-commits/releases/latest) 中下载对应包并解压，在命令行中运行:
